@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I love to learn and travel.
 
 [![Twitter: SaddamCse007](https://img.shields.io/twitter/follow/SaddamCse007?style=social)](https://twitter.com/SaddamCse007)
-[![Linkedin: muhammad-saddam-hossen-a8562b131](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)](https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)
+[![Linkedin: muhammad-saddam-hossen-a8562b131](https://img.shields.io/badge/-imsaddam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)](https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)
 [![GitHub iamsaddamhossen](https://img.shields.io/github/followers/iamsaddamhossen?label=follow&style=social)](https://github.com/iamsaddamhossen)
 
 
