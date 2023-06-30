@@ -1,5 +1,7 @@
 ## Hi, I'm [Saddam Hossen!] 👋
 
+I'm Md Saddam Hossen and working as a Software Engineer. I love to build things using MERN Stack. 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/SaddamCse007">
