@@ -23,8 +23,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Upwork](https://upwork.com/).
-- 🌱 I’m currently learning more about MERN stack.
+- 🔭 I'm currently working as a Software Engineer
+- 🌱 I’m currently learning more about the MERN stack.
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with ReactJS documentation.
 - 💬 Ask me about ReactJS or any tech-related stuff.
