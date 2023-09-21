@@ -16,7 +16,7 @@ I'm a web application developer passionate about WordPress and creating awesome,
 <a href="https://instagram.com/saddam.wp/">
   <img align="left" alt="Saddam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/saddam.io/">
+<a href="https://www.facebook.com/iamsaddamhossen/">
   <img align="left" alt="Saddam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
