@@ -25,14 +25,21 @@ I'm a web application developer passionate about WordPress and creating awesome,
 <br/>
 
 
-- 🔭 I'm currently working as a Software Engineer
-- 🌱 I’m currently learning more about the MERN stack.
-- 👯 I’m looking to collaborate on Node.js.
-- 🤔 I’m looking for help with ReactJS documentation.
-- 💬 Ask me about ReactJS or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @SaddamCse007](https://twitter.com/SaddamCse007) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to learn and travel.
+🔭 I'm currently working as a Software Engineer with a strong focus on WordPress development.
+
+🌱 I’m continuously expanding my skills in WordPress and exploring ways to leverage it for web development projects.
+
+👯 I’m actively seeking collaborations on WordPress-related projects, especially those involving custom themes, plugins, and performance optimization.
+
+🤔 I’m interested in contributing to and seeking assistance within the WordPress community, particularly in areas related to WordPress core development and best practices.
+
+💬 Feel free to reach out to me for discussions on WordPress development, ReactJS, or any tech-related topics. I'm always up for a good tech chat!
+
+📫 You can connect with me on Twitter - @SaddamCse007 for the latest updates and insights into WordPress and web development.
+
+😄 Pronouns: He/His
+
+⚡ Fun fact: In addition to my passion for WordPress, I love to learn about new technologies and explore different travel destinations.
 
 [![Twitter: SaddamCse007](https://img.shields.io/twitter/follow/SaddamCse007?style=social)](https://twitter.com/SaddamCse007)
 [![Linkedin: muhammad-saddam-hossen-a8562b131](https://img.shields.io/badge/-imsaddam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)](https://www.linkedin.com/in/muhammad-saddam-hossen-a8562b131/)
