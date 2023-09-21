@@ -1,6 +1,6 @@
 ## Hi, I'm [Saddam Hossen!] 👋
 
-I'm Md Saddam Hossen and working as a Software Engineer. I love to build things using MERN Stack. 
+I'm a web application developer passionate about WordPress and creating awesome, lightweight, custom WordPress themes and plugins that are visually stunning and highly functional.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
