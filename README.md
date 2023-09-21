@@ -49,21 +49,21 @@ I'm a web application developer passionate about WordPress and creating awesome,
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML/CSS: Proficient in HTML and CSS for content structure and styling.
+
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript: Strong command of JavaScript for dynamic web interfaces.
+
+<code><img height="20" src="https://img.icons8.com/color/48/000000/jquery.png"></code> jQuery: Familiarity with jQuery for DOM manipulation.
+
+<code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP: Expertise in PHP, the foundation of WordPress.
+
+<code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL: Database proficiency for WordPress data handling.
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React: Skilled in React for building interactive web applications.
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"></code> TypeScript: Experience with TypeScript for type-safe and efficient JavaScript.
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> GraphQL: Knowledge of GraphQL for optimized data retrieval.
-
-<code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP: Expertise in PHP, the foundation of WordPress.
-
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML/CSS: Proficient in HTML and CSS for content structure and styling.
-
-<code><img height="20" src="https://img.icons8.com/color/48/000000/jquery.png"></code> jQuery: Familiarity with jQuery for DOM manipulation.
-
-<code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL: Database proficiency for WordPress data handling.
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code> Git: Proficient in Git for collaborative coding and version management.
 
