@@ -53,7 +53,7 @@ I'm a web application developer passionate about WordPress and creating awesome,
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript: Strong command of JavaScript for dynamic web interfaces.
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/jquery.png"></code> jQuery: Familiarity with jQuery for DOM manipulation.
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></code> jQuery: Familiarity with jQuery for DOM manipulation.
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP: Expertise in PHP, the foundation of WordPress.
 
