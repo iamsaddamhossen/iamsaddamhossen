@@ -35,10 +35,15 @@ Languages and Tools:
 <code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"></code> jQuery
 <code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL
+<code><img height="20" src="https://img.icons8.com/color/48/000000/wordpress.png"></code> WordPress
 <code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React
 <code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"></code> TypeScript
 <code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> GraphQL
+<code><img height="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/shopify-liquid.png"></code> Liquid (Shopify Templating)
 <code><img height="20" src="https://img.icons8.com/color/48/000000/shopify.png"></code> Shopify
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/plus.png"></code> PlusBase
+<code><img height="20" src="https://img.icons8.com/color/48/000000/database.png"></code> ShopBase
+<code><img height="20" src="https://img.icons8.com/color/48/000000/webflow.png"></code> Webflow
 <code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code> Git
 
 <a href="https://github.com/iamsaddamhossen"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&theme=light&hide_langs_below=1" /> </a> <a href="https://github.com/iamsaddamhossen"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=light&line_height=27" alt="Saddam's GitHub stats"/> </a>
