@@ -2,28 +2,29 @@ Hi, I'm [Saddam Hossen!] 👋
 I'm a Web Application Developer with 5 years of experience, specializing in WordPress, Shopify, and React. My passion lies in developing lightweight, custom themes, plugins, and scalable web applications, delivering visually stunning, functional websites.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaddamhossen&label=Views&color=blue&style=plastic" alt="iamsaddamhossen" /> </p> <a href="https://twitter.com/SaddamCse007"> <img align="left" alt="Saddam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> </a> <a href="https://linkedin.com/in/muhammad-saddam-hossen-a8562b131"> <img align="left" alt="Saddam's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://github.com/iamsaddamhossen"> <img align="left" alt="Saddam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a> <a href="https://instagram.com/saddam.wp/"> <img align="left" alt="Saddam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a> <a href="https://www.facebook.com/iamsaddamhossen/"> <img align="left" alt="Saddam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> </a> <br/> <br/>
+
 🔭 Currently Focused On:
-
-Building my dropshipping store BasketSpark.com and growing my expertise in Shopify.
+I am building my dropshipping store BasketSpark.com and growing my expertise in Shopify.
 Expanding into Webflow and Plusbase for flexible eCommerce and web development solutions.
-Actively seeking freelance/remote opportunities in Shopify, WordPress, and React development.
-🌱 Learning Journey:
+I am actively seeking freelance/remote opportunities in Shopify, WordPress, and React development.
 
+🌱 Learning Journey:
 Completed courses on Shopify Dropshipping and Shopify Development on Udemy.
 Currently diving deeper into Shopify, Webflow, and refining WordPress customizations.
-👯 Looking to Collaborate On:
 
+👯 Looking to Collaborate On:
 WordPress custom theme/plugin development and performance optimization.
 Shopify store setup, customization, and eCommerce solutions.
 Webflow projects that push the limits of design and functionality.
+
 🤔 Why Connect with Me:
 I bring a unique combination of technical support, web development, and eCommerce expertise. I’m especially excited about helping small businesses and entrepreneurs launch and scale their online stores.
 
 📫 Let's Connect:
-
 Follow me on Twitter @SaddamCse007 for tech tips, eCommerce insights, and updates on my journey.
 LinkedIn for professional connections and collaboration opportunities.
 Check out my GitHub for open-source contributions and personal projects.
+
 😄 Fun Fact:
 Beyond coding, I love exploring new tech and traveling to exciting destinations. 🚀
 
