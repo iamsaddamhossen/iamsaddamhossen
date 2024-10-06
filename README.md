@@ -32,7 +32,7 @@ Languages and Tools:
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code> CSS
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript
-<code><img height="20" src="https://img.icons8.com/color/48/000000/jquery.png"></code> jQuery
+<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"></code> jQuery
 <code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL
 <code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React
