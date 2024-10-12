@@ -6,15 +6,15 @@ I'm a Web Application Developer with 5 years of experience, specializing in Word
 Developing custom WordPress themes and plugins to enhance site functionality.
 Building and customizing Shopify stores, implementing unique features for optimal eCommerce performance.
 Exploring Webflow for advanced web design, creating visually appealing and interactive websites.
-React development focuses on crafting dynamic user interfaces and integrating third-party APIs.<br/>
+React development focuses on crafting dynamic user interfaces and integrating third-party APIs.<br/><br/>
 🌱 Learning Journey:<br/>
 Recently completed courses on Shopify Development and Web Design with Webflow.
-Continuously refining skills in front-end development, including JavaScript frameworks, WordPress customizations, and Shopify Liquid programming.<br/>
+Continuously refining skills in front-end development, including JavaScript frameworks, WordPress customizations, and Shopify Liquid programming.<br/><br/>
 👯 Looking to Collaborate On:<br/>
 WordPress custom development (themes, plugins, and site optimizations).
 Shopify eCommerce solutions (store setup, customization, and third-party integrations).
 Webflow projects that require a blend of design creativity and coding skills.
-React applications that involve complex user interactions and state management.<br/>
+React applications that involve complex user interactions and state management.<br/><br/>
 🤔 Why Connect with Me:<br/>
 I bring a unique blend of technical support and hands-on web development experience, backed by a passion for creating seamless user experiences across various platforms. I’m eager to help businesses and entrepreneurs launch and scale their online presence.<br/>
 
