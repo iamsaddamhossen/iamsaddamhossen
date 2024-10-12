@@ -16,12 +16,12 @@ Shopify eCommerce solutions (store setup, customization, and third-party integra
 Webflow projects that require a blend of design creativity and coding skills.
 React applications that involve complex user interactions and state management.<br/><br/>
 🤔 Why Connect with Me:<br/>
-I bring a unique blend of technical support and hands-on web development experience, backed by a passion for creating seamless user experiences across various platforms. I’m eager to help businesses and entrepreneurs launch and scale their online presence.<br/>
+I bring a unique blend of technical support and hands-on web development experience, backed by a passion for creating seamless user experiences across various platforms. I’m eager to help businesses and entrepreneurs launch and scale their online presence.<br/><br/>
 
 📫 Let's Connect:<br/>
 Follow me on Twitter @SaddamCse007 for web development tips and updates.
 Connect on LinkedIn for professional networking opportunities.
-Check out my GitHub for open-source contributions and projects demonstrating my coding skills.<br/>
+Check out my GitHub for open-source contributions and projects demonstrating my coding skills.<br/><br/>
 😄 Fun Fact:<br/>
 Besides coding, I enjoy exploring new tech and traveling to discover new cultures. 🚀<br/>
 
