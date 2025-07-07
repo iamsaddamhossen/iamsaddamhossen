@@ -1,7 +1,7 @@
 # Hi, I'm Saddam Hossen! 👋  
 **Lead Web Developer | WordPress, Shopify, Odoo & Web App Specialist**
 
-I'm a Web Application Developer with over **8 years of experience**, specializing in **WordPress**, **Shopify**, **Odoo**, **Webflow**, and **React**.
+I'm a Web Application Developer with over **8 years of experience**, specializing in **WordPress**, **Shopify**, **Odoo**, and **React**.
 
 I focus on building fast, secure, and scalable websites and web applications that help businesses grow online.
 
