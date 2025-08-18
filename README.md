@@ -1,7 +1,7 @@
 # Hi, I'm Saddam Hossen! 👋
 **Senior Web Developer | WordPress & Shopify Specialist**
 
-I’m a Web Developer with **9+ years of experience**, specializing in **WordPress and Shopify**.  
+I'm a Web Developer with **9+ years of experience**, specializing in **WordPress and Shopify**.  
 I build **fast, secure, and conversion-focused websites** that help businesses grow online.
 
 ---
