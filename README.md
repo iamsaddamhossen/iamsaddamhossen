@@ -1,49 +1,32 @@
-# Hi, I'm Saddam Hossen! 👋  
-**Senior Web Developer | WordPress, Shopify, Odoo & Web App Specialist**
+# Hi, I'm Saddam Hossen! 👋
+**Senior Web Developer | WordPress & Shopify Specialist**
 
-I'm a Web Application Developer with over **9+ years of experience**, specializing in **WordPress**, **Shopify**, **Odoo**, and **React**.
+I’m a Web Developer with **9+ years of experience**, specializing in **WordPress and Shopify**.  
+I build **fast, secure, and conversion-focused websites** that help businesses grow online.
 
-I focus on building fast, secure, and scalable websites and web applications that help businesses grow online.
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iamsaddamhossen&label=Profile%20Views&color=0e75b6&style=flat" alt="iamsaddamhossen" />
-</p>
+## 🔭 What I'm Working On
+- Custom WordPress themes, plugins, and speed optimization  
+- Full Shopify store setup, design customization & dropshipping integrations  
+- E-Commerce optimization for higher conversions and faster load times  
+- Responsive designs with pixel-perfect layouts and interactive elements  
 
-<a href="https://twitter.com/SaddamCse007">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/saddam-hossen-a8562b131">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iamsaddamhossen">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/saddam.wp/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iamsaddamhossen/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+---
 
-<br/><br/>
+## 🌱 Learning & Improving
+- Deepening knowledge in **Shopify Liquid**, advanced WooCommerce setups, and WordPress customizations  
+- Exploring modern **JavaScript frameworks** (React, Next.js) for dynamic web solutions  
+- Practicing **UI/UX improvements** for better performance and user experience  
 
-## 🔭 What I'm Working On  
-- Custom **WordPress** themes, plugins, and speed optimization  
-- Full **Shopify** store setup, design customization & dropshipping integrations  
-- **Odoo** website and module development for business automation  
-- Creating responsive designs using **Webflow**  
-- Web apps with **React**, **API integrations**, and dynamic UI
+---
 
-## 🌱 Learning & Improving  
-- Deepening knowledge in **Shopify Liquid**, **Odoo XML/JS/Python**, and **Headless CMS**  
-- Exploring more on **React hooks**, **Next.js**, and **microservices**  
-- Practicing UI/UX improvements for better performance and user experience
+## 🤝 Collaboration Interests
+- WordPress plugin customization or full website builds  
+- Shopify store setup, theme enhancements, and custom e-commerce features  
+- Speed optimization, SEO improvements, and performance audits  
 
-## 🤝 Collaboration Interests  
-- WordPress plugin customization or full builds  
-- Shopify eCommerce setup and custom features  
-- Odoo module integration or ERP custom solutions  
-- React projects that need API connection, user authentication, or dynamic content
+---
 
 ## 📫 Let's Connect  
 - 📧 saddamhossen.cse007@gmail.com  
