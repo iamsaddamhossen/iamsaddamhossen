@@ -60,11 +60,12 @@ I build **fast, secure, and conversion-focused websites** that solve real busine
 
 ## 📊 GitHub Stats
 <a href="https://github.com/iamsaddamhossen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&theme=radical&layout=compact&langs_count=8" />
 </a>
 <a href="https://github.com/iamsaddamhossen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=radical&line_height=27" alt="Saddam's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Saddam's GitHub stats"/>
 </a>
+
 
 ---
 
