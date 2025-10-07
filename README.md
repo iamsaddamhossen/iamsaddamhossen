@@ -1,5 +1,5 @@
 # Hi, I'm Saddam Hossen! 👋
-**Founder & CEO | Senior Web Developer | WordPress & Shopify Specialist**
+**Senior Web Developer | WordPress & Shopify Specialist**
 
 I'm a Full Stack Web Developer with **9+ years of experience**, specializing in **WordPress, Shopify, and front-end development**.  
 I build **fast, secure, and conversion-focused websites** that solve real business problems and help startups, entrepreneurs, and global clients grow online.
@@ -29,26 +29,29 @@ I build **fast, secure, and conversion-focused websites** that solve real busine
 
 ---
 
-## 💻 Languages & Tools
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code> CSS  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript  
+## 💻 Languages, Tools & Expertise
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML5  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code> CSS3  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript (ES6+)  
 <code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"></code> jQuery  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/wordpress.png"></code> WordPress  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP (WordPress & Custom Plugins)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL (Database Design & Optimization)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/wordpress.png"></code> WordPress (Custom Themes, Plugins, WooCommerce)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/shopify.png"></code> Shopify (Store Setup, Theme Customization, App Integrations)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React.js (Interactive UI Components)  
 <code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"></code> TypeScript  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> GraphQL  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/shopify.png"></code> Shopify  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/webflow.png"></code> Webflow  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code> Git  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> GraphQL & REST APIs (Integrations & Automation)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code> Git & GitHub (Version Control & Collaboration)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/elementor.png"></code> Elementor / Divi / WPBakery (Page Builders & Custom Layouts)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/seo.png"></code> Website Optimization & SEO (Speed, Core Web Vitals, Conversion)  
+<code><img height="20" src="https://img.icons8.com/color/48/000000/woocommerce.png"></code> WooCommerce (Custom Checkout, Product Pages & Integrations)  
+
 
 ---
 
 ## 📫 Let's Connect
 - 📧 Email: [saddamhossen.cse007@gmail.com](mailto:saddamhossen.cse007@gmail.com)  
-- 🌐 Website: [saddam.dev](https://saddam.dev)  
+- 🌐 Website: [saddamhossen.dev](https://saddamhossen.dev)  
 - 💼 LinkedIn: [Saddam Hossen](https://linkedin.com/in/saddam-hossen-a8562b131)  
 - 🐦 Twitter: [@SaddamCse007](https://twitter.com/SaddamCse007)  
 - 💻 Upwork: [iamsaddamhossen](https://www.upwork.com/freelancers/~016d4dac9eb588f3e7)  
