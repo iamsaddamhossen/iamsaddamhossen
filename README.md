@@ -1,72 +1,122 @@
-# Hi, I'm Saddam Hossen! 👋
-**Senior Web Developer | WordPress & Shopify Specialist**
+# 👋 Hi, I’m Saddam Hossen
+**Senior WordPress & WooCommerce Performance Engineer | CMS Development Specialist**
 
-I'm a Full Stack Web Developer with **9+ years of experience**, specializing in **WordPress, Shopify, and front-end development**.  
-I build **fast, secure, and conversion-focused websites** that solve real business problems and help startups, entrepreneurs, and global clients grow online.
+I help businesses fix **slow, unstable, and underperforming WordPress & WooCommerce websites**.
 
----
+With **9+ years of professional experience**, I specialize in:
 
-## 🔭 What I'm Working On
-- Developing **custom WordPress themes and plugins** for scalable business solutions  
-- Full **Shopify store setup**, design customization, app integrations, and dropshipping solutions  
-- Optimizing **e-commerce websites** for speed, SEO, and higher conversions  
-- Building **responsive, pixel-perfect, and interactive designs**  
+- ⚡ **Performance optimization (Core Web Vitals)**  
+- 🧩 **Custom WordPress plugin & CMS development**  
+- 🛒 **WooCommerce scalability & checkout optimization**  
+- 🔒 **Secure, clean, future-proof code**  
 
----
-
-## 🌱 Currently Learning
-- Advanced **WooCommerce setups** and **WordPress VIP platform** customizations  
-- Modern **JavaScript frameworks** (React, Next.js) for dynamic web solutions  
-- UI/UX enhancements for better **performance and user experience**  
+I don’t just “build websites” - I engineer **fast, conversion-focused systems** that improve **SEO, UX, and revenue**.
 
 ---
 
-## 🤝 Collaboration Interests
-- WordPress plugin customization or full website development  
-- Shopify store setup, theme enhancements, and e-commerce feature implementation  
-- Website speed optimization, SEO improvements, and performance audits  
-- Consulting on **conversion-focused website strategies**  
+## 🚀 What I Do Best (Core Expertise)
+
+### ⚡ WordPress & WooCommerce Performance Engineering
+- LCP, CLS, INP, TBT optimization  
+- Core Web Vitals compliance (Google Search requirements)  
+- WooCommerce database & query optimization  
+- Cart & checkout speed optimization  
+- Script unloading & asset-level optimization  
+- Image & video lazy-loading  
+- Render-blocking resource elimination  
+- Caching & CDN setup (Cloudflare, LiteSpeed, WP Rocket)  
+- Server-level tuning (LiteSpeed, Nginx, MariaDB)  
+
+### 🧩 Advanced CMS & Plugin Development
+- Custom WordPress plugin development  
+- Plugin customization & feature extensions  
+- REST / JSON API integrations  
+- Custom Post Types (CPT), ACF, taxonomies  
+- Headless / API-driven WordPress setups  
+- Clean, scalable, maintainable architecture  
+
+### 🛒 WooCommerce Engineering
+- High-performance store setup & scaling  
+- Custom checkout & cart flows  
+- Payment gateway & shipping integrations  
+- Multi-vendor systems (Dokan, WCFM)  
+- Conversion-focused UX improvements  
 
 ---
 
-## 💻 Languages, Tools & Expertise
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"></code> HTML5  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code> CSS3  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"></code> JavaScript (ES6+)  
-<code><img height="20" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"></code> jQuery  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/php.png"></code> PHP (WordPress & Custom Plugins)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/mysql.png"></code> MySQL (Database Design & Optimization)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/wordpress.png"></code> WordPress (Custom Themes, Plugins, WooCommerce)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/shopify.png"></code> Shopify (Store Setup, Theme Customization, App Integrations)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/react-native.png"></code> React.js (Interactive UI Components)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"></code> TypeScript  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> GraphQL & REST APIs (Integrations & Automation)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code> Git & GitHub (Version Control & Collaboration)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/elementor.png"></code> Elementor / Divi / WPBakery (Page Builders & Custom Layouts)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/seo.png"></code> Website Optimization & SEO (Speed, Core Web Vitals, Conversion)  
-<code><img height="20" src="https://img.icons8.com/color/48/000000/woocommerce.png"></code> WooCommerce (Custom Checkout, Product Pages & Integrations)  
-
+## 🧠 What I’m Currently Focused On
+- Advanced WooCommerce performance tuning  
+- Large-scale WordPress optimization strategies  
+- Server-side optimization for high-traffic sites  
+- Improving Lighthouse scores for real-world users (not just lab data)  
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: [saddamhossen.cse007@gmail.com](mailto:saddamhossen.cse007@gmail.com)  
+## 🤝 Ideal Collaboration
+I’m open to working with:
+
+- Businesses struggling with slow WordPress sites  
+- Agencies needing a performance-focused WordPress expert  
+- Founders who want clean custom plugins instead of bloated tools  
+- Long-term maintenance & optimization partnerships  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Core**  
+PHP 8+, JavaScript (ES6+), HTML5, CSS3  
+MySQL / MariaDB (query & index optimization)  
+
+**WordPress Ecosystem**  
+WordPress, WooCommerce  
+Custom Themes & Plugins  
+ACF, CPT, Gutenberg  
+Elementor, Divi, WPBakery  
+
+**Performance & Infrastructure**  
+Cloudflare, LiteSpeed, WP Rocket, Redis  
+Nginx, Apache  
+cPanel, Cloudways, SiteGround, Hostinger  
+
+**Dev & Workflow**  
+Git, GitHub, CLI, SSH  
+REST APIs & third-party integrations  
+
+---
+
+## 📂 Featured Work (Pinned Repositories)
+- 🔹 Advanced WordPress Theme Development  
+- 🔹 Custom React & Redux Projects  
+- 🔹 CMS & Plugin Architecture Experiments  
+
+Most client work is private - this GitHub showcases **architecture, coding standards, and performance mindset**.
+
+---
+
+## 📫 Let’s Connect
 - 🌐 Website: [saddamhossen.dev](https://saddamhossen.dev)  
 - 💼 LinkedIn: [Saddam Hossen](https://linkedin.com/in/saddam-hossen-a8562b131)  
-- 🐦 Twitter: [@SaddamCse007](https://twitter.com/SaddamCse007)  
-- 💻 Upwork: [iamsaddamhossen](https://www.upwork.com/freelancers/~016d4dac9eb588f3e7)  
+- 💻 Upwork: [Top-rated WordPress Performance Expert](https://www.upwork.com/freelancers/~016d4dac9eb588f3e7)  
+- 🐦 X (Twitter): [@SaddamCse007](https://twitter.com/SaddamCse007)  
+- 📧 Email: [saddamhossen.cse007@gmail.com](mailto:saddamhossen.cse007@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats
-<a href="https://github.com/iamsaddamhossen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&theme=radical&layout=compact&langs_count=8" />
-</a>
-<a href="https://github.com/iamsaddamhossen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Saddam's GitHub stats"/>
-</a>
-
+## 📊 GitHub Activity
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=radical&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&layout=compact&theme=radical&langs_count=8" /> 
+</p>
 
 ---
 
-_Thanks for visiting my profile! 🚀_
+## 🚀 Final Note
+If your WordPress site is:
+
+- Slow  
+- Unstable  
+- Failing Core Web Vitals  
+- Hurting conversions  
+
+You are looking at the **right engineer**.
