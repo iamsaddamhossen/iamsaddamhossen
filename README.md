@@ -3,7 +3,7 @@
 
 I help businesses fix **slow, unstable, and underperforming WordPress & WooCommerce websites**.
 
-With **9+ years of professional experience**, I specialize in:
+With **7+ years of professional experience**, I specialize in:
 
 - ⚡ **Performance optimization (Core Web Vitals)**  
 - 🧩 **Custom WordPress plugin & CMS development**  
