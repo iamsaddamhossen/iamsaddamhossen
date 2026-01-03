@@ -178,9 +178,9 @@ I'm interested in:
 
 ## 📈 Stats
 
-![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=iamsaddamhossen&color=brightgreen&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/iamsaddamhossen?style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/iamsaddamhossen?style=flat-square&color=yellow)
 
 ---
 
