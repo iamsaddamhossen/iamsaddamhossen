@@ -35,8 +35,8 @@ High-performance image optimization plugin (currently under WordPress.org review
 - Reduced client workload from 100+ hours to 2 hours
 - Result: 5-star review, repeat business
 
-**🔄 Divi to Elementor Migration Tool** (Private client work)
-- Automated migration script for 50+ pages across 4 languages
+**🔄 Divi to Elementor Migration** (Private client work)
+- Migration full website for 50+ pages across 4 languages
 - Preserved all content, styling, and functionality
 - Zero downtime migration
 - Saved client 80+ hours of manual work
@@ -68,9 +68,7 @@ High-performance image optimization plugin (currently under WordPress.org review
 
 ✅ **100% Job Success Score** on Upwork (Top Rated, all 5-star reviews)  
 ✅ **WordPress.org Contributor** (plugin under review)  
-✅ **$1,200+ earned** on Upwork with 8 completed projects  
-✅ **PMP Certified** (Project Management Professional)  
-✅ **Master's in Software Engineering** (Lithan Academy, 2022-2025)
+✅ **PMP** (Project Management Professional)  
 
 ---
 
@@ -115,7 +113,7 @@ Query Monitor, New Relic
 
 ## 📊 GitHub Activity
 
-Most of my client work is private, but I'm building open-source plugins and contributing to 
+Most of my client work is private, but I am building open-source plugins and contributing to 
 the WordPress community. Check out my pinned repositories below for examples of my code quality 
 and architecture approach.
 
@@ -129,7 +127,6 @@ and architecture approach.
 - Project Management Professional (PMP) - TÜV SÜD | ID: IN/7903/68539
 
 **Education:**
-- Master's in Software Engineering - Lithan Academy (2022-2025)
 - B.Sc. in Computer Science & Engineering - National University Bangladesh (2009-2013)
 
 ---
@@ -151,11 +148,6 @@ I'm interested in:
 - Complex API integrations
 - Performance optimization consulting
 - Long-term maintenance partnerships
-
-**Not interested in:**
-- Basic WordPress setup
-- Generic theme installations
-- One-off small fixes under $200
 
 ---
 
@@ -189,16 +181,6 @@ I'm interested in:
 ![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaddamhossen&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaddamhossen&layout=compact&theme=dark)
-
----
-
-## 🚀 Featured Repositories
-
-Check out my pinned repositories below to see:
-- ✅ Code quality and architecture
-- ✅ WordPress coding standards
-- ✅ Problem-solving approach
-- ✅ Documentation practices
 
 ---
 
