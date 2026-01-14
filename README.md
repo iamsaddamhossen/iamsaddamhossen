@@ -2,7 +2,7 @@
 
 **WordPress Plugin Developer | WooCommerce Extensions & Performance Solutions**
 
-I build custom WordPress plugins that solve real business problems — from WooCommerce extensions  
+I build custom WordPress plugins that solve real business problems - from WooCommerce extensions  
 to complex integrations and performance optimization tools.
 
 With 8+ years of development experience, I focus on clean, scalable code that businesses can  
