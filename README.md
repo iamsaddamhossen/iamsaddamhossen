@@ -27,7 +27,7 @@ I develop plugins from scratch for unique business requirements:
 ### Recent Projects
 
 **🔧 Saddam Hossen WebP Optimizer**  
-High-performance image optimization plugin *(currently under WordPress.org review)*
+High-performance image optimization plugin *(https://wordpress.org/plugins/saddam-hossen-webp-optimizer/)*
 
 - Converts images to WebP format locally without external APIs  
 - Reduces image sizes by **60–80%**  
