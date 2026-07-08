@@ -6,7 +6,7 @@ Founder of **99BinaryLab**
 
 I build and fix WordPress systems that solve real business problems — custom plugins, WooCommerce workflows, API integrations, performance optimization, WordPress security, technical SEO, and AI-ready website architecture.
 
-I’ve been building production websites since **2017**, working across WordPress, WooCommerce, Shopify, custom plugins, multilingual/event platforms, service business websites, performance projects, and automation-heavy workflows.
+I have been building production websites since **2017**, working across WordPress, WooCommerce, Shopify, custom plugins, multilingual/event platforms, service business websites, performance projects, and automation-heavy workflows.
 
 ---
 
