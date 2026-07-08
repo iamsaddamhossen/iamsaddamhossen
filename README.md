@@ -1,191 +1,126 @@
-# 👋 Hi, I'm Saddam Hossen  
+# 👋 Hi, I’m Saddam Hossen
 
-**WordPress Plugin Developer | WooCommerce Extensions & Performance Solutions**
+**Senior WordPress/PHP Engineer**
+Custom Plugins · WooCommerce · APIs · Performance · Security · Technical SEO
+Founder of **99BinaryLab**
 
-I build custom WordPress plugins that solve real business problems - from WooCommerce extensions  
-to complex integrations and performance optimization tools.
+I build and fix WordPress systems that solve real business problems — custom plugins, WooCommerce workflows, API integrations, performance optimization, WordPress security, technical SEO, and AI-ready website architecture.
 
-With **7+ years of development experience**, I focus on clean, scalable code that businesses can  
-rely on for the long term.
-
----
-
-## 🎯 What I Build
-
-### Custom WordPress Plugins
-
-I develop plugins from scratch for unique business requirements:
-
-- **WooCommerce extensions** (checkout customization, payment gateways, inventory systems)  
-- **Data import/export tools** (bulk operations, CSV/Excel processing)  
-- **API integrations** (CRM, marketing automation, payment processors)  
-- **Performance optimization plugins** (caching, image optimization, database tuning)  
-- **Custom admin tools** (dashboards, reporting, automation)
+I’ve been building production websites since **2017**, working across WordPress, WooCommerce, Shopify, custom plugins, multilingual/event platforms, service business websites, performance projects, and automation-heavy workflows.
 
 ---
 
-### Recent Projects
+## What I work on
 
-**🔧 Saddam Hossen WebP Optimizer**  
-High-performance image optimization plugin *(https://wordpress.org/plugins/saddam-hossen-webp-optimizer/)*
-
-- Converts images to WebP format locally without external APIs  
-- Reduces image sizes by **60–80%**  
-- Improves **Core Web Vitals** scores  
-- Zero ongoing costs, **100% privacy-focused**
-
----
-
-**📊 EventPrime Bulk Import System** *(Private client work)*
-
-- Custom plugin for importing **1,000+ events** via CSV/Excel  
-- Built data validation, error handling, and progress tracking  
-- Reduced client workload from **100+ hours to 2 hours**  
-- Result: **5-star review**, repeat business
+* Custom WordPress plugin development
+* WooCommerce customization and performance
+* API integrations, webhooks and automation
+* WordPress security audit and malware cleanup
+* Core Web Vitals and speed optimization
+* Technical SEO, schema, AEO and AI-ready structure
+* Shopify / Liquid customization
+* Monthly WordPress engineering support
 
 ---
 
-**🔄 Divi to Elementor Migration** *(Private client work)*
+## Selected proof
 
-- Migrated full website with **50+ pages across 4 languages**  
-- Preserved all content, styling, and functionality  
-- Zero downtime migration  
-- Saved client **80+ hours** of manual work
+### WebP Optimizer for WordPress
 
----
+A lightweight WordPress image optimization plugin that converts images to WebP locally.
 
-## 💼 Professional Experience
+* Runs on the site’s own server
+* No external API dependency
+* Helps reduce image weight and improve Core Web Vitals
+* Built for privacy, simplicity and performance
 
-**🏢 WordPress Developer** | 99BinaryLab | *Aug 2024 – Present*
+🔗 Plugin: https://wordpress.org/plugins/saddam-hossen-webp-optimizer/
 
-- Build custom WordPress plugins and WooCommerce extensions  
-- Implement API integrations and automation workflows  
-- Optimize high-traffic sites for **Core Web Vitals**  
-- Provide technical consulting on WordPress architecture  
+### Custom WordPress Import Workflow
 
----
+Private client work for a data-heavy WordPress workflow.
 
-**🛠️ WordPress Technical Support Engineer** | Arraytics | *Dec 2023 – Dec 2024*
+* Built custom import logic for structured event/content data
+* Added validation, progress handling and admin workflow improvements
+* Reduced manual data work from **100+ hours to around 2 hours**
 
-- Diagnosed complex WordPress performance issues (**50K+ daily visitors**)  
-- Reduced page load times from **8s to 1.2s**  
-- Resolved plugin conflicts and database bottlenecks  
-- Maintained **95%+ customer satisfaction rating**
+### WordPress / WooCommerce Performance Work
 
----
+Performance-focused work across WordPress and WooCommerce projects.
 
-**💻 WordPress Web Developer** | NetGeeks | *Dec 2021 – Jul 2024*
-
-- Developed custom WordPress websites and WooCommerce stores  
-- Built custom booking system plugin *(saved client $2,000+ in SaaS costs)*  
-- Optimized sites achieving **90+ PageSpeed scores**
+* PageSpeed improvements from the 40s to 90+
+* Load-time improvements from around 8s to 1.2s in production environments
+* Work includes caching, CDN, WebP, query optimization, plugin review and Core Web Vitals fixes
 
 ---
 
-## 🏆 Achievements
+## Current focus
 
-- ✅ **100% Job Success Score** on Upwork *(Top Rated, all 5-star reviews)*  
-- ✅ **WordPress.org Contributor** *(plugin under review)*  
-- ✅ **PMP – Project Management Professional**
+I’m building **99BinaryLab**, a technical WordPress studio focused on:
 
----
+* WordPress audits
+* Performance fixes
+* Security and malware cleanup
+* WooCommerce optimization
+* API and automation workflows
+* AI-ready website systems
+* Long-term website growth support
 
-## 🛠️ Tech Stack
-
-### Core Development
-- PHP 8+ (OOP, PSR standards)  
-- JavaScript (ES6+, React)  
-- MySQL / MariaDB  
-- WordPress REST API  
-
-### WordPress Ecosystem
-- Custom Plugin Development  
-- WooCommerce Extensions  
-- Gutenberg Block Development  
-- Custom Post Types & ACF  
-- Theme Customization (FSE)  
-
-### Performance & Infrastructure
-- Core Web Vitals Optimization  
-- Redis, LiteSpeed Cache, WP Rocket  
-- Cloudflare CDN  
-- Database Query Optimization  
-- Server Configuration (NGINX, LiteSpeed)  
-
-### Tools & Workflow
-- Git, GitHub  
-- WP-CLI, Composer  
-- Docker, LocalWP  
-- Postman (API testing)  
-- Query Monitor, New Relic  
+I’m also working on **SiteProof AI**, a WordPress audit system for performance, security, SEO/AEO, AI-readiness and lead-capture checks.
 
 ---
 
-## 📊 GitHub Activity
+## Tech stack
 
-Most of my client work is private, but I actively build open-source plugins and contribute  
-to the WordPress community. Check pinned repositories for real-world code examples.
+### WordPress / PHP
 
----
+PHP · OOP PHP · WordPress Hooks · Custom Post Types · REST API · WP-CLI · Composer · MySQL · WooCommerce · Gutenberg Blocks
 
-## 🎓 Certifications & Education
+### Frontend
 
-**Certifications**
-- WordPress VIP Development – rtCamp  
-- Advanced WordPress Theme Development – Codeytek Academy  
-- Project Management Professional (PMP) – TÜV SÜD  
+JavaScript · React basics · HTML · CSS · Responsive UI · Accessibility basics · Shopify Liquid
 
-**Education**
-- **B.Sc. in Computer Science & Engineering**  
-  National University, Bangladesh *(2009–2013)*
+### Performance & infrastructure
 
----
+Core Web Vitals · Cloudflare · Redis · LiteSpeed · WP Rocket · Query Monitor · New Relic · Image Optimization · Database Optimization
 
-## 💡 What I'm Currently Working On
+### Automation & APIs
 
-- AI-powered WordPress plugins (OpenAI / Claude API)  
-- WooCommerce performance optimization tools  
-- WordPress open-source contributions  
-- Writing technical tutorials  
+REST APIs · Webhooks · CRM integrations · Payment integrations · OpenAI / Claude API workflows · Postman
+
+### Tools
+
+Git · GitHub · LocalWP · Docker basics · VS Code · Trello/ClickUp · Google Workspace
 
 ---
 
-## 🤝 Let's Collaborate
+## Featured repositories
 
-I'm interested in:
-
-- Custom WordPress plugin projects  
-- WooCommerce extension development  
-- Complex API integrations  
-- Performance optimization consulting  
-- Long-term maintenance partnerships  
+* **saddam-hossen-webp-optimizer** — WordPress WebP image optimization plugin
+* **custom-woocommerce-bkash-payment-gateway-plugin** — WooCommerce payment gateway experiment
+* **saddamhossen-portfolio** — Personal portfolio and founder brand website
+* **saddam-core** — WordPress starter/boilerplate components
+* **sh-starter** — Hybrid WordPress starter theme for custom client sites
 
 ---
 
-## 📫 How to Reach Me
+## Open to
 
-- 🌐 Portfolio: https://saddamhossen.dev  
-- 💼 LinkedIn: https://linkedin.com/in/saddam-hossen-a8562b131  
-- 💻 Upwork: https://www.upwork.com/freelancers/~016d4dac9eb588f3e7  
-- 📧 Email: saddam.wp007@gmail.com  
-- 🐦 Twitter/X: https://twitter.com/SaddamCse007  
-
----
-
-## 🎯 Hiring Me?
-
-**Best suited for projects that need:**
-
-- Custom plugin development from scratch  
-- WooCommerce custom functionality  
-- Complex third-party integrations  
-- Performance optimization at scale  
-- Clean, maintainable, well-documented code  
-
-**Project size:** $300 – $2,000+  
-**Availability:** 30+ hrs/week  
-**Response time:** 1–2 hours (GMT+6)
+* Full-time remote WordPress/PHP roles
+* Long-term agency partnerships
+* Custom WordPress plugin projects
+* WooCommerce performance and optimization work
+* API integration and automation projects
+* WordPress security / malware cleanup work
+* Monthly WordPress engineering support
 
 ---
 
-⭐ *If you find my work helpful, consider starring my repositories.*
+## Contact
+
+🌐 Portfolio: https://saddamhossen.dev
+🏢 99BinaryLab: https://99binarylab.com
+💼 LinkedIn: https://www.linkedin.com/in/saddam-hossen-dev
+💻 Upwork: https://www.upwork.com/freelancers/~016d4dac9eb588f3e7
+📧 Email: [saddam.wp007@gmail.com](mailto:saddam.wp007@gmail.com)
+📱 WhatsApp: https://wa.me/8801920066584
