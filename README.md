@@ -1,126 +1,233 @@
-# 👋 Hi, I’m Saddam Hossen
+# Saddam Hossen
 
 **Senior WordPress/PHP Engineer**
-Custom Plugins · WooCommerce · APIs · Performance · Security · Technical SEO
-Founder of **99BinaryLab**
 
-I build and fix WordPress systems that solve real business problems — custom plugins, WooCommerce workflows, API integrations, performance optimization, WordPress security, technical SEO, and AI-ready website architecture.
+Custom Plugins · WooCommerce · Gutenberg · REST APIs · Performance · Production Support
 
-I have been building production websites since **2017**, working across WordPress, WooCommerce, Shopify, custom plugins, multilingual/event platforms, service business websites, performance projects, and automation-heavy workflows.
+I build and maintain WordPress systems that solve real business and operational problems. My work includes custom plugin architecture, WooCommerce workflows, structured data platforms, API integrations, performance engineering and production troubleshooting.
 
----
+I have been building production websites since 2017 and have worked across independent client delivery, remote WordPress product support and frontend engineering.
 
-## What I work on
-
-* Custom WordPress plugin development
-* WooCommerce customization and performance
-* API integrations, webhooks and automation
-* WordPress security audit and malware cleanup
-* Core Web Vitals and speed optimization
-* Technical SEO, schema, AEO and AI-ready structure
-* Shopify / Liquid customization
-* Monthly WordPress engineering support
+[Portfolio](https://saddamhossen.dev) ·
+[LinkedIn](https://www.linkedin.com/in/saddam-hossen-dev) ·
+[Upwork](https://www.upwork.com/freelancers/~016d4dac9eb588f3e7) ·
+[WordPress Plugin](https://wordpress.org/plugins/saddam-hossen-webp-optimizer/)
 
 ---
 
-## Selected proof
+## Engineering focus
 
-### WebP Optimizer for WordPress
-
-A lightweight WordPress image optimization plugin that converts images to WebP locally.
-
-* Runs on the site’s own server
-* No external API dependency
-* Helps reduce image weight and improve Core Web Vitals
-* Built for privacy, simplicity and performance
-
-🔗 Plugin: https://wordpress.org/plugins/saddam-hossen-webp-optimizer/
-
-### Custom WordPress Import Workflow
-
-Private client work for a data-heavy WordPress workflow.
-
-* Built custom import logic for structured event/content data
-* Added validation, progress handling and admin workflow improvements
-* Reduced manual data work from **100+ hours to around 2 hours**
-
-### WordPress / WooCommerce Performance Work
-
-Performance-focused work across WordPress and WooCommerce projects.
-
-* PageSpeed improvements from the 40s to 90+
-* Load-time improvements from around 8s to 1.2s in production environments
-* Work includes caching, CDN, WebP, query optimization, plugin review and Core Web Vitals fixes
+- Custom WordPress plugin development
+- WooCommerce extensions and operational workflows
+- Gutenberg blocks and editor-friendly content systems
+- REST APIs, webhooks and third-party integrations
+- Structured imports and high-volume content processing
+- WordPress performance and Core Web Vitals
+- Production debugging and technical support
+- Security, privacy and maintainable data handling
+- WP-CLI, automated checks and GitHub Actions
 
 ---
 
-## Current focus
+## Selected engineering work
 
-I’m building **99BinaryLab**, a technical WordPress studio focused on:
+### Multilingual WordPress event platform
 
-* WordPress audits
-* Performance fixes
-* Security and malware cleanup
-* WooCommerce optimization
-* API and automation workflows
-* AI-ready website systems
-* Long-term website growth support
+Designed and extended a structured WordPress platform supporting more than 3,000 event records across English, Spanish, French and Italian.
 
-I’m also working on **SiteProof AI**, a WordPress audit system for performance, security, SEO/AEO, AI-readiness and lead-capture checks.
+Key responsibilities included:
+
+- Custom post types and structured metadata
+- Automated CSV and spreadsheet import workflows
+- Multilingual content and URL handling
+- Custom AJAX-powered event presentation
+- Data validation and operational troubleshooting
+- Performance and maintainability improvements
+
+### Custom WordPress import workflow
+
+Built a custom import system for a data-heavy WordPress project.
+
+The workflow included:
+
+- Input validation and error reporting
+- Structured field mapping
+- Progress handling
+- Duplicate and data-integrity checks
+- Admin workflow improvements
+- Repeatable processing for large datasets
+
+The system reduced a manual process that previously required more than 100 hours to approximately two hours.
+
+### WordPress product support and performance
+
+Worked in a remote WordPress product-support environment serving products with more than 50,000 daily active users.
+
+Responsibilities included:
+
+- Reproducing and isolating production issues
+- Investigating plugin and theme conflicts
+- Query and server profiling with Query Monitor and New Relic
+- Customer-facing technical communication
+- Developer documentation and escalation notes
+- Performance improvements, including load-time reductions from approximately eight seconds to 1.2 seconds in selected environments
 
 ---
 
-## Tech stack
+## Open-source work
 
-### WordPress / PHP
+### [Saddam Hossen WebP Optimizer](https://wordpress.org/plugins/saddam-hossen-webp-optimizer/)
 
-PHP · OOP PHP · WordPress Hooks · Custom Post Types · REST API · WP-CLI · Composer · MySQL · WooCommerce · Gutenberg Blocks
+A WordPress image-optimization plugin that converts images to WebP directly on the website server.
 
-### Frontend
+- No external image-processing API
+- Automatic conversion during uploads
+- Bulk conversion for existing media
+- Adjustable quality settings
+- EXIF rotation handling
+- Smaller-file fallback logic
+- Privacy-focused local processing
 
-JavaScript · React basics · HTML · CSS · Responsive UI · Accessibility basics · Shopify Liquid
+Repository:  
+[github.com/iamsaddamhossen/saddam-hossen-webp-optimizer](https://github.com/iamsaddamhossen/saddam-hossen-webp-optimizer)
 
-### Performance & infrastructure
+---
 
-Core Web Vitals · Cloudflare · Redis · LiteSpeed · WP Rocket · Query Monitor · New Relic · Image Optimization · Database Optimization
+## Current engineering projects
 
-### Automation & APIs
+### SaddamHossen.dev
 
-REST APIs · Webhooks · CRM integrations · Payment integrations · OpenAI / Claude API workflows · Postman
+My personal WordPress engineering site is built with a custom theme and companion plugin.
 
-### Tools
+It demonstrates:
 
-Git · GitHub · LocalWP · Docker basics · VS Code · Trello/ClickUp · Google Workspace
+- Custom content models and registered metadata
+- Native WordPress editing workflows
+- Versioned REST API routes
+- A dynamic Gutenberg block
+- WP-CLI commands
+- Privacy exporter and eraser integration
+- Site Health diagnostics
+- Cache invalidation and scheduled maintenance
+- Automated quality checks with GitHub Actions
+
+Repository:  
+[github.com/iamsaddamhossen/saddamhossen-portfolio](https://github.com/iamsaddamhossen/saddamhossen-portfolio)
+
+### SiteProof AI
+
+A WordPress audit product currently in development, focused on helping site owners investigate performance, security, compliance and search-readiness issues.
+
+The project is being developed around:
+
+- Modular audit checks
+- Evidence-based findings
+- Safe remediation workflows
+- Backup and rollback planning
+- REST-based integrations
+- Clear separation between deterministic checks and optional AI assistance
+
+---
+
+## Technical stack
+
+### WordPress and PHP
+
+PHP · OOP · WordPress Plugin API · Hooks and Filters · Custom Post Types · Registered Metadata · MySQL · REST API · WP-CLI · Composer · PHPUnit · PHPCS
+
+### WooCommerce
+
+Checkout customization · Payment workflows · Order lifecycle · Webhooks · Product logic · Performance troubleshooting · HPOS awareness
+
+### Gutenberg and frontend
+
+Gutenberg · `block.json` · React · JavaScript · HTML · CSS · Responsive interfaces · Accessibility · Progressive enhancement
+
+### Performance and production
+
+Core Web Vitals · Query Monitor · New Relic · Redis · Cloudflare · LiteSpeed · Caching · Database analysis · Image optimization · Site Health
+
+### APIs and automation
+
+REST APIs · Webhooks · Payment integrations · CRM integrations · Postman · OpenAI and Claude API workflows
+
+### Development workflow
+
+Git · GitHub · GitHub Actions · LocalWP · Docker fundamentals · VS Code · Code review · Technical documentation
+
+---
+
+## How I approach WordPress engineering
+
+1. **Clarify the system**  
+   Understand requirements, data ownership, constraints and failure paths.
+
+2. **Investigate before changing code**  
+   Reproduce the issue, inspect logs and isolate the responsible layer.
+
+3. **Use native WordPress APIs**  
+   Prefer documented hooks, metadata, REST, privacy and editor APIs over fragile workarounds.
+
+4. **Implement the smallest safe change**  
+   Keep responsibilities clear and avoid unnecessary coupling.
+
+5. **Verify production behavior**  
+   Test success paths, failures, permissions, caching, accessibility and rollback options.
+
+6. **Document the decision**  
+   Record assumptions, trade-offs, deployment notes and maintenance requirements.
 
 ---
 
 ## Featured repositories
 
-* **saddam-hossen-webp-optimizer** — WordPress WebP image optimization plugin
-* **custom-woocommerce-bkash-payment-gateway-plugin** — WooCommerce payment gateway experiment
-* **saddamhossen-portfolio** — Personal portfolio and founder brand website
-* **saddam-core** — WordPress starter/boilerplate components
-* **sh-starter** — Hybrid WordPress starter theme for custom client sites
+- [saddam-hossen-webp-optimizer](https://github.com/iamsaddamhossen/saddam-hossen-webp-optimizer)  
+  Local WebP image optimization for WordPress.
+
+- [custom-woocommerce-bkash-payment-gateway-plugin](https://github.com/iamsaddamhossen/custom-woocommerce-bkash-payment-gateway-plugin)  
+  WooCommerce payment-gateway implementation and order workflow experiment.
+
+- [saddamhossen-portfolio](https://github.com/iamsaddamhossen/saddamhossen-portfolio)  
+  Custom WordPress engineering site with a theme, companion plugin and automated quality checks.
+
+- [saddam-core](https://github.com/iamsaddamhossen/saddam-core)  
+  Reusable WordPress components and development foundations.
+
+- [sh-starter](https://github.com/iamsaddamhossen/sh-starter)  
+  A starter architecture for custom WordPress client projects.
 
 ---
 
-## Open to
+## Professional background
 
-* Full-time remote WordPress/PHP roles
-* Long-term agency partnerships
-* Custom WordPress plugin projects
-* WooCommerce performance and optimization work
-* API integration and automation projects
-* WordPress security / malware cleanup work
-* Monthly WordPress engineering support
+- **Independent WordPress/PHP Engineer**  
+  Custom development, WooCommerce, integrations, performance and international client delivery.
+
+- **WordPress Technical Support Engineer**  
+  Production debugging, product support, performance investigation and technical documentation.
+
+- **Frontend Developer**  
+  Responsive interfaces, JavaScript, React, REST integrations and browser-level debugging.
+
+I am also **Top Rated on Upwork with 100% Job Success**.
+
+---
+
+## Currently open to
+
+- Full-time remote WordPress/PHP engineering roles
+- WordPress plugin-development roles
+- WooCommerce engineering roles
+- WordPress product and technical-support roles
+- Long-term engineering partnerships
+- Selected custom plugin and integration projects
 
 ---
 
 ## Contact
 
-🌐 Portfolio: https://saddamhossen.dev
-🏢 99BinaryLab: https://99binarylab.com
-💼 LinkedIn: https://www.linkedin.com/in/saddam-hossen-dev
-💻 Upwork: https://www.upwork.com/freelancers/~016d4dac9eb588f3e7
-📧 Email: [saddam.wp007@gmail.com](mailto:saddam.wp007@gmail.com)
-📱 WhatsApp: https://wa.me/8801920066584
+- Portfolio: [saddamhossen.dev](https://saddamhossen.dev)
+- LinkedIn: [linkedin.com/in/saddam-hossen-dev](https://www.linkedin.com/in/saddam-hossen-dev)
+- Upwork: [View Upwork profile](https://www.upwork.com/freelancers/~016d4dac9eb588f3e7)
+- WordPress plugin: [Saddam Hossen WebP Optimizer](https://wordpress.org/plugins/saddam-hossen-webp-optimizer/)
+- Email: [saddam.wp007@gmail.com](mailto:saddam.wp007@gmail.com)
